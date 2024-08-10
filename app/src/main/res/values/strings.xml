@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Healthcare Application</string>
+    <string name="already_have_an_account">Already have an account</string>
+    <string name="_24_7_healthcare">24*7 HEALTHCARE</string>
+    <string name="family_physicians">FAMILY PHYSICIANS</string>
+
+</resources>
